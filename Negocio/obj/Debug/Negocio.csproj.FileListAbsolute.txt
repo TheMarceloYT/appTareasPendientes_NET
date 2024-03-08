@@ -1,0 +1,17 @@
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\bin\Debug\TareasPendientes.mdf
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\bin\Debug\TareasPendientes_log.ldf
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\bin\Debug\Negocio.dll.config
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\bin\Debug\Negocio.dll
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\bin\Debug\Negocio.pdb
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\bin\Debug\Datos.dll
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\bin\Debug\EntityFramework.dll
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\bin\Debug\Datos.pdb
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\bin\Debug\Datos.dll.config
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\bin\Debug\EntityFramework.xml
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\obj\Debug\Negocio.dll
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Negocio\obj\Debug\Negocio.pdb

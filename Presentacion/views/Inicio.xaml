@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="Presentacion.views.Inicio"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Presentacion.views"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" 
+             d:DesignWidth="600"
+             Background="White">
+    <!-- cuerpo de la vista -->
+    <Grid VerticalAlignment="Center">
+        <!-- definicion de filas -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <!-- Titulo -->
+        <Border Background="red"
+                Margin="5"
+                CornerRadius="10">
+            <StackPanel Grid.Row="0"
+                    HorizontalAlignment="Center">
+                <Label Name="lblTitulo1"
+                        Content="Centro de administración"
+                        FontSize="45"
+                        Foreground="White"
+                        FontWeight="Bold">
+                </Label>
+                <Label Name="lblTitulo2"
+                        Content="de tareas USM"
+                        FontSize="45"
+                        FontWeight="Bold"
+                        Foreground="White"
+                        HorizontalAlignment="Center">
+                </Label>
+            </StackPanel>
+        </Border>
+        <!-- imagen -->
+        <StackPanel Grid.Row="1"
+                    HorizontalAlignment="Center">
+            <Image x:Name="imgLibro"
+                    Source="/images/libro.png"
+                    Height="250">
+            </Image>
+        </StackPanel>
+    </Grid>
+</UserControl>

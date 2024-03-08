@@ -1,0 +1,14 @@
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Datos\bin\Debug\TareasPendientes.mdf
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Datos\bin\Debug\TareasPendientes_log.ldf
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Datos\bin\Debug\Datos.dll.config
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Datos\bin\Debug\Datos.dll
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Datos\bin\Debug\Datos.pdb
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Datos\bin\Debug\EntityFramework.dll
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Datos\bin\Debug\EntityFramework.xml
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Datos\obj\Debug\Datos.dll
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Datos\obj\Debug\Datos.pdb
+C:\C works\C#\Marcelo_Escobar_PRA4_solution\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
